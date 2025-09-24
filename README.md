@@ -1,6 +1,4 @@
 # HTMLAssignment
 
-
-
-something over there 
-
+nothing here. 
+And something over here.
